@@ -19,6 +19,12 @@ class _CurrencyConverterMaterialPageState
   }
 
   @override
+  void dispose() {
+    textEditingController.dispose();
+    super.dispose();
+  }
+
+  @override
   void initState() {
     super.initState();
     // print('rebuilt');
