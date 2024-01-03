@@ -34,7 +34,5 @@ Follow these steps to get the app up and running on your local machine.
 
    flutter pub get
    
-   flutter run
-
-  ```
+   flutter run ```
 # Make sure you have an emulator or a physical device connected.
