@@ -8,9 +8,6 @@ A simple and intuitive currency converter mobile application built using Flutter
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -39,4 +36,5 @@ Follow these steps to get the app up and running on your local machine.
    
    flutter run
 
-  ```#Make sure you have an emulator or a physical device connected.
+  ```
+# Make sure you have an emulator or a physical device connected.
